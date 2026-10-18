@@ -25,8 +25,8 @@ Prowadzę **Sev7nSolutions / Sev7nDevelopment**, czyli robię projekty na zamów
 </p>
 
 ## 📫 Kontakt
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/TWOJE_ID)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/265000197036179456)
 [![GitHub](https://img.shields.io/badge/Sev7nDevelopment-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sev7nDevelopment)
-[![Email](https://img.shields.io/badge/Email-8957e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TWOJ@MAIL.pl)
+[![Email](https://img.shields.io/badge/Email-8957e5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matthi3@wp.pl)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957e5,100:0d1117&height=100&section=footer" width="100%" />
