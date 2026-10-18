@@ -4,9 +4,8 @@
 
 ### About
 
-Mateusz, Warszawa. Tworzę strony internetowe, boty oraz skrypty do FiveM.
-Pracuję pod szyldem Sev7nSolutions, realizuję projekty na zamówienie.
-
+Mateusz. I build websites, Discord bots and FiveM scripts, from idea to deployment.
+Working under Sev7nSolutions, open for commissions.
 <br>
 
 ### Stack
