@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/sev7n/sev7n/main/assets/banner.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/Sev7nSolutions/sev7n/main/assets/banner.svg" width="100%" />
 
 <br>
 
